@@ -53,9 +53,9 @@
 ![Cloud Cost Optimization](https://img.shields.io/badge/Cloud%20Cost-Optimization-red?style=for-the-badge)
 ![Observability](https://img.shields.io/badge/Observability-Distributed%20Systems-blue?style=for-the-badge)
 
-# 📊 GitHub Insights
-![](https://github-readme-stats.vercel.app/api?username=p05-cloud&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=p05-cloud&layout=compact&theme=tokyonight)
+## 📊 GitHub Insights
+
+![](https://stats.dooboo.io/api?username=p05-cloud&show_icons=true)
 
 
 
