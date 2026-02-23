@@ -54,9 +54,8 @@
 ![Observability](https://img.shields.io/badge/Observability-Distributed%20Systems-blue?style=for-the-badge)
 
 # 📊 GitHub Insights
-![](https://github-readme-stats.vercel.app/api?username=p05-cloud&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=p05-cloud&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=p05-cloud&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=p05-cloud&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=p05-cloud&layout=compact&theme=tokyonight)x
 
 ---
 [![](https://visitcount.itsvg.in/api?id=p05-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
